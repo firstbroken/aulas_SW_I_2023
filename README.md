@@ -9,3 +9,5 @@
 
 # Comando para criar a classe principal (modelo antigo)
 dotnet new console --use-program-main
+# Comando para rodar um programa a partir da classe principal
+dotnet run
