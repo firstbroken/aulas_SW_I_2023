@@ -11,3 +11,6 @@
 dotnet new console --use-program-main
 # Comando para rodar um programa a partir da classe principal
 dotnet run
+
+# FORMULÁRIO PARA ENVIO DOS LINKS DO GITHUB PARA O ENVIO DAS TAREFAS:
+- https://forms.gle/gY5XZmN9hvJaximv9
