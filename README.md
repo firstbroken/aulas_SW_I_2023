@@ -8,9 +8,18 @@
 ![image](https://user-images.githubusercontent.com/53703505/218476983-6d0fcd4a-0568-4b83-a392-9a9a0fc431fd.png)
 
 # Comando para criar a classe principal (modelo antigo)
-dotnet new console --use-program-main
+**_dotnet new console --use-program-main_**
 # Comando para rodar um programa a partir da classe principal
-dotnet run
+**_dotnet run_**
+
+# Comandos do git para zerar credenciais salvos na máquina
+
+Nos labs de informática é conveniente zerar as credenciais do git (local) em sua máquina para fazer a sincronização com seu repositório no Github
+
+**_git config --global --unset user.name_**
+
+**_git config --global --unset user.email_**
+
 
 # FORMULÁRIO PARA ENVIO DOS LINKS DO GITHUB PARA O ENVIO DAS TAREFAS:
 - https://forms.gle/gY5XZmN9hvJaximv9
