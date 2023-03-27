@@ -1,0 +1,15 @@
+C:\Users\Anderson\Desktop\projeto_desconto\bin\Debug\net6.0\projeto_desconto.exe
+C:\Users\Anderson\Desktop\projeto_desconto\bin\Debug\net6.0\projeto_desconto.deps.json
+C:\Users\Anderson\Desktop\projeto_desconto\bin\Debug\net6.0\projeto_desconto.runtimeconfig.json
+C:\Users\Anderson\Desktop\projeto_desconto\bin\Debug\net6.0\projeto_desconto.dll
+C:\Users\Anderson\Desktop\projeto_desconto\bin\Debug\net6.0\projeto_desconto.pdb
+C:\Users\Anderson\Desktop\projeto_desconto\obj\Debug\net6.0\projeto_desconto.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\projeto_desconto\obj\Debug\net6.0\projeto_desconto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\projeto_desconto\obj\Debug\net6.0\projeto_desconto.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\projeto_desconto\obj\Debug\net6.0\projeto_desconto.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\projeto_desconto\obj\Debug\net6.0\projeto_desconto.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\projeto_desconto\obj\Debug\net6.0\projeto_desconto.dll
+C:\Users\Anderson\Desktop\projeto_desconto\obj\Debug\net6.0\refint\projeto_desconto.dll
+C:\Users\Anderson\Desktop\projeto_desconto\obj\Debug\net6.0\projeto_desconto.pdb
+C:\Users\Anderson\Desktop\projeto_desconto\obj\Debug\net6.0\projeto_desconto.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\projeto_desconto\obj\Debug\net6.0\ref\projeto_desconto.dll

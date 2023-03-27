@@ -1,0 +1,15 @@
+C:\Users\Anderson\Desktop\projeto_pessoa\bin\Debug\net6.0\projeto_pessoa.exe
+C:\Users\Anderson\Desktop\projeto_pessoa\bin\Debug\net6.0\projeto_pessoa.deps.json
+C:\Users\Anderson\Desktop\projeto_pessoa\bin\Debug\net6.0\projeto_pessoa.runtimeconfig.json
+C:\Users\Anderson\Desktop\projeto_pessoa\bin\Debug\net6.0\projeto_pessoa.dll
+C:\Users\Anderson\Desktop\projeto_pessoa\bin\Debug\net6.0\projeto_pessoa.pdb
+C:\Users\Anderson\Desktop\projeto_pessoa\obj\Debug\net6.0\projeto_pessoa.csproj.AssemblyReference.cache
+C:\Users\Anderson\Desktop\projeto_pessoa\obj\Debug\net6.0\projeto_pessoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anderson\Desktop\projeto_pessoa\obj\Debug\net6.0\projeto_pessoa.AssemblyInfoInputs.cache
+C:\Users\Anderson\Desktop\projeto_pessoa\obj\Debug\net6.0\projeto_pessoa.AssemblyInfo.cs
+C:\Users\Anderson\Desktop\projeto_pessoa\obj\Debug\net6.0\projeto_pessoa.csproj.CoreCompileInputs.cache
+C:\Users\Anderson\Desktop\projeto_pessoa\obj\Debug\net6.0\projeto_pessoa.dll
+C:\Users\Anderson\Desktop\projeto_pessoa\obj\Debug\net6.0\refint\projeto_pessoa.dll
+C:\Users\Anderson\Desktop\projeto_pessoa\obj\Debug\net6.0\projeto_pessoa.pdb
+C:\Users\Anderson\Desktop\projeto_pessoa\obj\Debug\net6.0\projeto_pessoa.genruntimeconfig.cache
+C:\Users\Anderson\Desktop\projeto_pessoa\obj\Debug\net6.0\ref\projeto_pessoa.dll
