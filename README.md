@@ -31,3 +31,15 @@ Nos labs de informática é conveniente zerar as credenciais do git (local) em s
 - Salve as imagens das duas classes e seus respectivos códigos em um repositório de seu github. 
 
 ```SUGESTÃO: inicie um projeto novo para cada uma das classes, Assim fica mais fácil o entendimento e também a realização de testes. Com relação a parte prática, após criar as classes, faça a instância de pelo menos um objeto utilizando a classe criada.```
+
+
+# Atividades avaliadas para 1º Bimestre SW-I
+
+- Aula 04 - SW-I -Exercicio Guiado - Alunos e Media
+https://github.com/ProfAndersonVanin/aulas_SW_I_2023/blob/main/Aula%2004%20-%20SW-I%20-Exercicio%20Guiado%20-%20Alunos%20e%20Media.pdf
+
+- Aula 05 - SW-I -Exercicio Guiado - Conta Bancária
+https://github.com/ProfAndersonVanin/aulas_SW_I_2023/blob/main/Aula%2005%20-%20SW-I%20-Exercicio%20Guiado%20-%20Conta%20Banc%C3%A1ria.pdf
+
+- Aula 06 - SW-I - METODOS CONSTRUTORES
+https://github.com/ProfAndersonVanin/aulas_SW_I_2023/blob/main/Aula%2006%20-%20SW-I%20-%20METODOS%20CONSTRUTORES.pdf
