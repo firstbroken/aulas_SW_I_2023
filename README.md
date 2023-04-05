@@ -21,8 +21,6 @@ Nos labs de informática é conveniente zerar as credenciais do git (local) em s
 **_git config --global --unset user.email_**
 
 
-# FORMULÁRIO PARA ENVIO DOS LINKS DO GITHUB PARA O ENVIO DAS TAREFAS:
-- https://forms.gle/gY5XZmN9hvJaximv9
 
 # AULA 03 DA SEMANA DE 27/02 A 03/03 - EXERCÍCIO PRÁTICO
 - Utilize o repositório: https://github.com/ProfAndersonVanin/aulas_SW_I_2023/blob/main/Aula%2003%20-%20SW-I%20-%20EXERCICIO%20PRATICO.pdf para montar as classes Avião e Transação Bancária. 
